@@ -12,7 +12,7 @@
 * If your single class is not using too many resources(filehandling, database connection pooling) etc. 
  
 #Ouput
-Getting the same hashcode irrespective any number of objects created in the client side.
-EagerInitializedSingleton [hashCode()=1836019240]
-EagerInitializedSingleton [hashCode()=1836019240]
-EagerInitializedSingleton [hashCode()=1836019240]
+Getting the same hashcode irrespective any number of objects created in the client side.<br>
+EagerInitializedSingleton [hashCode()=1836019240]<br>
+EagerInitializedSingleton [hashCode()=1836019240]<br>
+EagerInitializedSingleton [hashCode()=1836019240]<br>
